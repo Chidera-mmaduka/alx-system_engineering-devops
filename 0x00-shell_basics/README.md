@@ -1,1 +1,1 @@
-shell
+script
