@@ -1,4 +1,2 @@
-able File  2 lines (2 sloc)  60 Bytes
-
 #!/bin/bash
 echo $PATH | tr ':' '\n' | grep -v "^$" | wc -l
